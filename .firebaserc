@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "numpie-finance"
-  }
+    "default": "numpie-finance-staging",
+    "staging": "numpie-finance-staging"
+  },
+  "targets": {}
 }

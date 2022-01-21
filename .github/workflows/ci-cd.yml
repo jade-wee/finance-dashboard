@@ -60,7 +60,7 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: >-
-            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_QUALITY_DASHBOARD_STAGING
+            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NUMPIE_FINANCE_STAGING
             }}
           channelId: live
-          projectId: quality-dashboard-stagin-875d2
+          projectId: numpie-finance-staging
